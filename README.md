@@ -345,7 +345,7 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28ea0255-16f3-4615-842b-2e754e7a1b6a/deploy-status)](https://app.netlify.com/sites/adorable-cactus-90a9a8/deploys)
 
 ## License 📄
 
